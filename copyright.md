@@ -27,6 +27,7 @@ Liability: The copyright holder shall not be liable for any damages arising from
 Copyright
 © 2025 AETHYR ONE. All rights reserved.
 Electronically signed by:
-Milos Ilić (ID: 2313712377974001)
+Miloš Ilić (ID: 2313712377974001)
 Timestamp: 19.05.2025 09:57:02  
+E-uprava RS
 
