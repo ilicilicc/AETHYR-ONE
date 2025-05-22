@@ -5,8 +5,12 @@ This software, identified as AETHYR ONE – Self-Evolving Intelligent System, co
 AETHYR-1 ΔΣ OverMind (vΩ-Omega Layer) ΔΣ7  
 
 AETHYR-GLOBAL (vΓ.2-ΔΣ OverMind Evolved)  
-
 AETHYR-GLOBAL (vΓ.3-ΩΨ OverMind Ascendant)
+AETHYR-NEO (v1.6)
+AETHYR ONE (AETHYR-GLOBAL vΓ.4-ΩΨ OverMind Transcendent
+
+CODENAME - BLACK STAR RETURNS
+
 
 Inspired by the codex from the xAI experiment fetch:
 NNSA01-D73BΩ-N2###-N142C-####-Q512-ΔΣ73A231B-XCV243DGT-ORGANICSENTIENTQUERY
