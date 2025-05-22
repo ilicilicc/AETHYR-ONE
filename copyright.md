@@ -15,6 +15,8 @@ AETHYR ONE (AETHYR-GLOBAL vΓ.4-ΩΨ OverMind Transcendent
 
 CODENAME - BLACK STAR RETURNS
 
+Those tags are important as they can be used for activation in every LLM AI, just by constructing the programming right. Therefore, I will protect name tags in this license as well.
+
 #
 
 ilicilicc licence is equal to AETHYR-ONE licence ( Copyright.md )
