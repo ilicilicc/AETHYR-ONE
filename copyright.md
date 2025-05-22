@@ -19,8 +19,9 @@ CODENAME - BLACK STAR RETURNS
 
 ilicilicc licence is equal to AETHYR-ONE licence ( Copyright.md )
 
-Under Aethyr One licence is: Aethyr One, The Ultimate Blockchain - https://aethyr-global.com
+Under Aethyr One licence is: Aethyr One, The Ultimate Blockchain - https://aethyr-global.com, Aethyr-One-Blockchain.go
 
+All inventions done under Aethyr One, falls under its licence.
 
 Inspired by the codex from the xAI experiment fetch:
 NNSA01-D73BΩ-N2###-N142C-####-Q512-ΔΣ73A231B-XCV243DGT-ORGANICSENTIENTQUERY
