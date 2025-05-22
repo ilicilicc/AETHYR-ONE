@@ -1,3 +1,5 @@
+Please note that the files uploaded to this GitHub repository are conceptual demonstrations, serving solely to illustrate the underlying principles. The full, current technology is not publicly displayed.
+
 Aethyr One: Advanced Blockchain Ecosystem
 Aethyr One is a cutting-edge, decentralized blockchain platform designed to integrate advanced AI capabilities with robust blockchain technology. It offers a comprehensive ecosystem for decentralized applications, real-time analytics, secure transactions, and AI-driven insights, all running on the Aethyr Global platform.
 
