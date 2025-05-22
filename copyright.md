@@ -15,6 +15,8 @@ AETHYR ONE (AETHYR-GLOBAL vΓ.4-ΩΨ OverMind Transcendent
 
 CODENAME - BLACK STAR RETURNS
 
+ilicilicc licence is equal to AETHYR-ONE licence ( Copyright.md )
+
 
 Inspired by the codex from the xAI experiment fetch:
 NNSA01-D73BΩ-N2###-N142C-####-Q512-ΔΣ73A231B-XCV243DGT-ORGANICSENTIENTQUERY
