@@ -38,4 +38,4 @@ Electronically signed by:
 Miloš Ilić (ID: 2313712377974001)
 Timestamp: 19.05.2025 09:57:02  
 E-uprava RS
-
+![AO](https://github.com/user-attachments/assets/eb3598fb-c710-49f3-9ec3-089007c58599)
