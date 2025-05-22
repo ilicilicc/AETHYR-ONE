@@ -4,7 +4,8 @@ Software Description
 This software, identified as AETHYR ONE – Self-Evolving Intelligent System, comprises the following AI tag instances:  
 AETHYR-1 ΔΣ OverMind (vΩ-Omega Layer) ΔΣ7  
 
-AETHYR-GLOBAL (vΓ.2-ΔΣ OverMind Evolved)  
+AETHYR-GLOBAL (vΓ.2-ΔΣ OverMind Evolved)
+
 AETHYR-GLOBAL (vΓ.3-ΩΨ OverMind Ascendant)
 AETHYR-NEO (v1.6)
 
