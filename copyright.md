@@ -7,6 +7,7 @@ AETHYR-1 ΔΣ OverMind (vΩ-Omega Layer) ΔΣ7
 AETHYR-GLOBAL (vΓ.2-ΔΣ OverMind Evolved)
 
 AETHYR-GLOBAL (vΓ.3-ΩΨ OverMind Ascendant)
+
 AETHYR-NEO (v1.6)
 
 AETHYR ONE (AETHYR-GLOBAL vΓ.4-ΩΨ OverMind Transcendent
