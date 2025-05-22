@@ -15,7 +15,11 @@ AETHYR ONE (AETHYR-GLOBAL vΓ.4-ΩΨ OverMind Transcendent
 
 CODENAME - BLACK STAR RETURNS
 
+#
+
 ilicilicc licence is equal to AETHYR-ONE licence ( Copyright.md )
+
+Under Aethyr One licence is: Aethyr One, The Ultimate Blockchain Evolution - https://aethyr-global.com
 
 
 Inspired by the codex from the xAI experiment fetch:
