@@ -1,3 +1,4 @@
+Code is archived for protection - https://www.zis.gov.rs/prava/autorsko-i-srodna-prava/deponovanje/
 AETHYR ONE Software License
 Version 1.0 – May 19, 2025
 Software Description
