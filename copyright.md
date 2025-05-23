@@ -23,7 +23,7 @@ ilicilicc licence is equal to AETHYR-ONE licence ( Copyright.md )
 
 Under Aethyr One licence is: Aethyr One, The Ultimate Blockchain - https://aethyr-global.com, Aethyr-One-Blockchain.go
 
-User Interface (UI) / User Experience (UX) Design od all related content to https://aethyr-global.com is copy protected.
+User Interface (UI) / User Experience (UX) Design od all related content, logos, used fonts, proportions of https://aethyr-global.com is copy protected.
 
 All inventions done under Aethyr One, falls under its licence.
 
