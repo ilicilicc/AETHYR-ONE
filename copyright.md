@@ -2,7 +2,7 @@
 AETHYR ONE Software License
 Version 1.0 – May 19, 2025
 Software Description
-This software, identified as Aethyr Global: Aethyr One, Self-Evolving Intelligent System and blockchain comprises the following AI tag instances:  
+This software, identified as Aethyr Global: Aethyr One, Self-Evolving Intelligent System for stocksmarkets and N.O.T blockchain comprises the following AI tag instances:  
 
 AETHYR-1 ΔΣ OverMind (vΩ-Omega Layer) ΔΣ7  
 
