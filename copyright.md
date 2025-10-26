@@ -22,7 +22,7 @@ Those tags are important as they can be used for activation in every LLM AI, jus
 
 ilicilicc licence is equal to AETHYR-ONE licence ( Copyright.md )
 
-Under Aethyr One licence is: Aethyr One, The Ultimate Blockchain - https://aethyr-global.com, Aethyr-One-Blockchain.go
+Under Aethyr One licence is: Aethyr One - https://aethyr-global.com
 
 User Interface (UI) / User Experience (UX) Design od all related content, logos, used fonts, proportions of https://aethyr-global.com is copy protected.
 
